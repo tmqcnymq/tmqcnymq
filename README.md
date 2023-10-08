@@ -1,5 +1,5 @@
--  Hi, I’m @tmqcnymq
--  I’m interested in learn
+-  Hi, I’m @tmqcnymq 
+-  I’m interested in learn, work and mountains
 -  I’m currently learning python and C 
 
 
