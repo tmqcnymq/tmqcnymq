@@ -9,7 +9,7 @@ def fibonacci(n):
     return fibonacci(n-1) + fibonacci(n-2)
 
 # Asignar mi edad a una variable
-edad = 25
+edad = 31
 
 # Llamar a la función con mi edad como argumento
 fib = fibonacci(edad)
